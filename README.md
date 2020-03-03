@@ -1,2 +1,2 @@
-# GAN-Image-Generation
-GAN for image generation
+# GAN Image Generation
+Python file that I used to create images through generative adversarial network.
